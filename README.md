@@ -18,7 +18,7 @@
 * Bypass litespeed
 * Bypass blankphp
 * Bypass downloaded
-* Bypass bitninja upload
+* Bypass bitninja upload (u can upload shell.jpg)
 * Bypass PHP7x disable function
 * Bypass PHP5x disable function
 * Added Function Bypass
